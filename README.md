@@ -1,7 +1,8 @@
-#Vehicle-Recognition-System
+Vehicle-Recognition-System
 This project basically recognizes the vehicles on the roads. It can count the number of cars in an image or video frame. Moreover, the vehicle license plates are scanned.
 
-#Contents
+Contents
+
 (i) Abstract
 (ii) Intriduction
 (iii) LICENSE PLATE DETECTION AND RECOGNITION
@@ -24,13 +25,19 @@ This project basically recognizes the vehicles on the roads. It can count the nu
 (viii) Conclusion
 
 #Abstract
+
+
 Vehicle recognition system is the necessity of the new technological world. This project comprises of some different aspects like counting of vehicles in image using open CV, counting the number vehicles in the video frames and also the detection of the license plate in vehicles etc. It uses some python libraries for recognition like keras, numpy, pandas, tesseract etc. However, due to the different sizes of vehicles, their detection remains a challenge that directly affects the accuracy of vehicle counts. This works in a very effiecient in its performance. We can use it in various applications in our daily life.This project can also be used as traffic logger, traffic counter and few other traffic related applications. The fundamental goal is to detect and count moving vehicles with clear to have the option to do as such on streets, highways and in little paths, etc. Automated license number and entry time registration can also done using it. 
 
 #Introduction
+
+
 Vehicle recognition systems capture the license plates of moving vehicles using a camera, quickly scan various character information on the license plate based on image processing, and generate data. This mainly works on machine learning.License plate detection is identifying the part of the car that is predicted to be the
 number plate.This technology applies in many areas. On roads, it is used to identify the cars thatare breaking the traffic rules.Vehicle detecting and counting have a significant influence in numerous systemthat helps to regulate and control traffic in urban areas.Object detection is a fascinating field in computer vision. It goes to a whole new level when we’re dealing with video data. The complexity rises up a notch, but so do the rewards.
 
 #LICENSE PLATE DETECTION AND RECOGNITION
+
+
 ##Methodology
 For software to detect and recognize a license plate, it undergoes three major
 processes1. Taking an image of a car as input - The program takes in the input of the car
@@ -41,6 +48,8 @@ detect the part of the car that is the license plate.
 extracted from the number plate image.
 
 ##Results
+
+
 When the program has run successfully,the license plate number is printed on the display.
 
 #COUNTING CARS IN IMAGE USING OPENCV
@@ -68,6 +77,8 @@ print('Number of cars in the image is ' + str(label.count('car')))
 When the program has run successfully, the number of vehicles in image is printed.
 
 #COUNTING CARS THROUGH VIDEO FRAMES
+
+
 Our objective is to capture the coordinates of the moving object and highlight that object in the video.
 
 ##Methodology
@@ -117,6 +128,8 @@ in front of the setup reaches the first sensor, Arduino becomes alert and captur
 When the program has run successfully, the speed of the vehicle is printed.
 
 ##REAL WORLD APPLICATIONS
+
+
 1. Parking:
 a. Automated license number and entry time registration.
 b. Easy free parking spaces detection.
@@ -138,4 +151,6 @@ traffic is high at someplace, then from that area, an officer can monitor it and
 5. Helps traffic police: A vehicle detection and counting system could be beneficial for the traffic police because everything they can monitor from one place only likes how many vehicles have crossed this toll and which vehicle.
 
 ##Conclusion
+
+
 Now we can conclude that in many aspects it works efficiently but now it is the project we need to implement it to the real world appication so that it can be beneficial for all mankind. Hence we can use opencv for the counting of the number of the vehicles on the roads. We have used some image recognition libraries in the detection of the license plate in the system. In this way this is efficient, reliable, portable and easy technology based solution for the traffic surveillance.
