@@ -4,37 +4,37 @@
 
 ## Contents
 
-(i) Abstract
+(i) **Abstract**
 
-(ii) Intriduction
+(ii) **Intriduction**
 
-(iii) License plate detection and recognition
+(iii) **License plate detection and recognition**
   
   a. Methodology
    
   b. Results
    
-(iv) Conuting of cars in image using Open CV
+(iv) **Conuting of cars in image using Open CV**
   
   a. Methodology
    
   b. Results
   
-(v) Counting of cars through video frames
+(v)**Counting of cars through video frames**
  
   a. Methodology
  
   b. Reslts 
    
-(vi) Car speed detection using IR sensor and Arduino
+(vi) **Car speed detection using IR sensor and Arduino**
   
   a. Methodology
    
   b. Results 
 
-(vii) Applications
+(vii) **Applications**
 
-(viii) Conclusion
+(viii) **Conclusion**
 
 ## Abstract
 
