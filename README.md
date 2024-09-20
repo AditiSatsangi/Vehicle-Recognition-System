@@ -1,6 +1,9 @@
 # VEHICLE RECOGNITION SYSTEM
+This project addresses a significant real-world issue encountered in Agra, specifically the problem of unauthorized sand mining occurring at night. To tackle this, we employed deep learning techniques to detect unauthorized heavy vehicles involved in the illegal mining activities. This project aims to support local authorities in monitoring and curbing this illegal practice.
 
- This project basically recognizes the vehicles on the roads. It can count the number of cars in an image or video frame. Moreover, the vehicle license plates are scanned.
+The system uses advanced vehicle recognition algorithms that can identify vehicles on the roads, count the number of cars in an image or video frame, and even scan vehicle number plates. This enables real-time monitoring of traffic flow and identifies suspicious activity related to unauthorized vehicles in sensitive areas.
+
+The successful outcomes of this project led to the publication of a paper in an IEEE conference, highlighting its practical utility and technological innovation in leveraging deep learning for public safety and resource management.
 
 ## Contents
 
