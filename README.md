@@ -152,6 +152,7 @@ in front of the setup reaches the first sensor, Arduino becomes alert and captur
 
 When the program has run successfully, the speed of the vehicle is printed.
 
+![image](https://github.com/user-attachments/assets/2b33ff3f-9398-4fd5-8101-dd0e99c447d1)
 
 ## REAL WORLD APPLICATIONS
 
